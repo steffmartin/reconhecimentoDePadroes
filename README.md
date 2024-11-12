@@ -1,3 +1,5 @@
+> **Aviso**: Este projeto foi concluído durante meus estudos na universidade e, apesar de estar funcional, utiliza tecnologias que podem estar desatualizadas. Ele permanece público como uma fonte de conhecimento e referência. Sinta-se à vontade para explorar o código e aprender com ele!
+
 # Reconhecimento de Padrões
 
 Pequeno executável que implementa e calcula a taxa de acertos do algoritmo __K-NN__ com a metodologia de validação cruzada __K-FOLD__ e normalização de dados com o algoritmo __Z-SCORE__.
